@@ -1,3 +1,7 @@
+## Parcours français
+
+Le parcours documentaire français consacré à ce composant Base est disponible dans [`docs/fr/`](docs/fr/).
+
 ![Base](docs/assets/logo.png)
 
 # Base
