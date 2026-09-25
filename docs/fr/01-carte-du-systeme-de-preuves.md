@@ -1,11 +1,11 @@
-# Carte du systeme de preuves Base
+# Carte du système de preuves Base
 
-Le monorepo Base separe production de blocs, execution, generation de preuves et contestation.
-Le proposer selectionne les sorties L2 qui doivent etre engagees ou prouvees.
-Les workers executent les travaux lourds derriere un protocole de service versionne.
-Le driver coordonne les etapes et leur progression sans confondre resultat calcule et resultat soumis.
-Les backends ZK et TEE fournissent des attestations differentes sous des hypotheses distinctes.
-Le challenger surveille les jeux de contestation et compare les claims a une execution locale.
-La soumission onchain constitue une frontiere finale avec cout, nonce et finalite propres.
+Le monorepo Base sépare production de blocs, exécution, génération de preuves et contestation.
+Le proposer sélectionne les sorties L2 qui doivent être engagées ou prouvées.
+Les workers exécutent les travaux lourds derrière un protocole de service versionné.
+Le driver coordonne les étapes et leur progression sans confondre résultat calculé et résultat soumis.
+Les backends ZK et TEE fournissent des attestations différentes sous des hypothèses distinctes.
+Le challenger surveille les jeux de contestation et compare les claims à une exécution locale.
+La soumission onchain constitue une frontière finale avec coût, nonce et finalité propres.
 
 Suite : [02 — Préimages et exécution](02-preimages-et-execution.md).
