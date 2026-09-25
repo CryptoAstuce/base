@@ -8,4 +8,4 @@
 6. [Contestation et challenger](06-contestation-et-challenger.md)
 7. [Limites et vérification](07-limites-et-verification.md)
 
-Lecture du pipeline complet, des entrées authentifiées jusqu à la soumission et à la contestation.
+Lecture du pipeline complet, des entrées authentifiées jusqu’à la soumission et à la contestation.
